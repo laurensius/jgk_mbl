@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Jigoku Ramen Reservation</string>
+    
+    
+	<string name="tvExit">Apakah Anda akan keluar dari aplikasi?</string>
+	<string name="btnExitYa">Ya</string>
+	<string name="btnExitTidak">Tidak</string>
+	
+	<string name="tv_key">Masukkan Key</string>
+	<string name="tv_value">Masukkan Value</string>
+	<string name="btn_clrall">Hapus Shared Preferences</string>
+	<string name="btn_submit">Simpan Shared Preferences</string>
+	
+	<string name="tv_setting">Masukkan alamat IP Server :</string>
+	
+	
+	<string name="local_splash">file:///android_asset/jigoku_mobile/jigoku_mobile/public_html/nama_konsumen.html</string>
+	<string name="local_menu">file:///android_asset/jigoku_mobile/jigoku_mobile/public_html/index.html</string>
+    <string name="server">http://192.168.173.1:85/jigokuramen/index.php/mobile/</string>
+    
+	
+</resources>

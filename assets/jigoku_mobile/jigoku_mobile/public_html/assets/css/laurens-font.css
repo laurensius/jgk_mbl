@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Mei 14, 17:19:43
+    Author     : Laurensius
+*/
+
+@font-face{
+    font-family: 'Japanese_Style';
+    src: url('../font/Japanese Style.ttf');
+}
+
+@font-face{
+    font-family: 'Kavya Fantastic';
+    src: url('../font/Kavya Fantastic.ttf');
+}
+
+@font-face{
+    font-family: 'Caviar de Diane';
+    src: url('../font/Caviar de Diane.ttf');
+}
+
+.japanese_style{
+    font-family: 'Japanese Style';
+}
+
+.kavya_fantastic{
+    font-family: 'Kavya Fantastic';
+}
+
+.caviar_de_diane{
+    font-family: 'Caviar de Diane';
+}
+
+/*------------Footer------------*/
+.laurens_footer{
+    color: #666;
+    bottom: 0px;
+    
+}
+
+.navbar-laurens{
+    background-color: #c33;
+}
+
+.navbar-laurens  .navbar-brand{
+    color:white;
+}
+
+
+.box_image{
+    width:100%;
+    position: fixed;
+    top:50px;
+    height:150px;
+    z-index: 20;
+}
